@@ -1,0 +1,9 @@
+Config:
+  OutputMode: 0
+  OutputFile: PD2Hook.log
+  PrintOffsets: false
+KeyBindings:
+PersistScripts:
+  - [lib/entry, scripts\dlc.lua]
+  - [RebalanceWeapons, scripts\skins.lua]
+PostRequireScripts:
